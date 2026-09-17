@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: playground
-          image: bjandri/playground:v1
+          image: bjandri/playground:v2
           ports:
             - containerPort: 8888
